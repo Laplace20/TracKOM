@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "767221240825",
+    "firebase_url": "https://trackomdb-default-rtdb.firebaseio.com",
+    "project_id": "trackomdb",
+    "storage_bucket": "trackomdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767221240825:android:d1192f0edce268ec49e328",
+        "android_client_info": {
+          "package_name": "com.example.trackom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASUw7PxDsYfRybA-V2UBqkH-ESvwDcIqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
